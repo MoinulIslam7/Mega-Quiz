@@ -8,3 +8,6 @@ https://unique-horse-d87515.netlify.app/
 3. There is a blog where answer some question about react.\
 4. A statistics of total questions of every topics shows in statistics.\
 5. Use Dynamic Router.
+6. use css framework tailwind for thsi project.\
+7. Use React Router Dom.\
+8. Use Sweetalert2 for alert.\
