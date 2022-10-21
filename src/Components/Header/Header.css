@@ -1,0 +1,7 @@
+.header a{
+    margin: 10px;
+    padding: 8px;
+}
+.header a:hover{
+    background-color: orange;
+}
